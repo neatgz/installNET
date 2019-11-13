@@ -219,7 +219,7 @@ case "$num" in
 	InstallOS "xenial"
 	;;
 	3)
-	InstallOS "cosmic"
+	InstallOS "bionic"
 	;;
 	4)
 	switchbit
